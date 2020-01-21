@@ -1,4 +1,4 @@
-baseURL = "http://0x-test.netlify.com"
+baseURL = "http://university-test.netlify.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
